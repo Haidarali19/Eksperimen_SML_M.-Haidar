@@ -17,4 +17,4 @@ jobs:
         run: pip install pandas
 
       - name: Run Automation Script
-        run: python preprocessing/automate_Nama-kamu.py
+        run: python preprocessing/Automate_m. Haidar.py
