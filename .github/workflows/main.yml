@@ -16,5 +16,8 @@ jobs:
       - name: Install Pandas
         run: pip install pandas
 
+      - name: Debug: List Files
+        run: ls -R
+
       - name: Run Automation Script
-        run: python preprocessing/Automate_m. Haidar.py
+        run: python preprocessing/automate_m. Haidar.py
