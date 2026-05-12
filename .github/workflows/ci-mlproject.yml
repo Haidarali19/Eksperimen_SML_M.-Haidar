@@ -3,7 +3,8 @@ name: CI for MLProject
 on:
   push:
     branches: [ "main" ]
-    
+    paths:
+      - 'Workflow-CI/**'
 
 jobs:
   build-and-push:
