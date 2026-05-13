@@ -1,1 +1,0 @@
-https://hub.docker.com/repository/docker/haidarali19/house-price-model
